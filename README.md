@@ -1,8 +1,11 @@
-<span style="font-size:12px; font-family:sans-serif;">Hi! 👋 ✨
+<span style="font-size:11px; font-family:arial;">Hi! 👋 ✨
 My name is ✨ _Nicky Dubs_ ✨, welcome to my space on GitHub?  ✨ ✨
-I am experimenting with html/css/js code to create a musicians website from "scratch" 🔭
-(using & frankensteining whatever open-source code/templates i find to be most useful). 🔭
-As the experiment continues of building a site for my exact purposes, it should be quite easily forkable for other independent artists/performers/retailers. 🔭
+  <br>
+I am experimenting with html/css/js code to create a musicians website from "scratch"
+  <br> 
+(using & frankensteining whatever open-source code/templates i find to be most useful). 
+  <br>
+As the experiment continues of building a site for my exact purposes, it should be quite easily forkable for other independent artists/performers/retailers. 
 If you have ever done this before and had any successes/failures, please let me know!  Thank you so much! 
 
 Tasks:
