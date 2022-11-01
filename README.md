@@ -1,16 +1,11 @@
-<span style="font-size:7px; font-family:helvetica,lucida;">Hi! 👋 ✨
-My name is ✨ _Nicky Dubs_ , welcome to my space on GitHub?  ✨ ✨
-  <br>
-I am experimenting with html/css/js code to create a musicians website from "scratch"
-  <br> 
-(using & frankensteining whatever open-source code/templates i find to be most useful). 
-  <br>
-As the experiment continues of building a site for my exact purposes, it should be quite easily forkable for other independent artists/performers/retailers. 
-If you have ever done this before and had any successes/failures, please let me know!  Thank you so much! 
+<span style="font-size:5px; font-family:helvetica,lucida;">Hi! 👋 ✨
+My name is ✨ _Nicky Dubs_ , welcome to my space on GitHub?  ✨ ✨<br>
+I am experimenting with html/css/js code to create a musicians website from "scratch".<br> 
+(using & frankensteining whatever open-source code/templates i find to be most useful) <br>
+As the experiment continues of building a site for my exact purposes, it should be quite easily forkable for other independent artists/performers/retailers.<br> 
+If you have ever done this before and had any successes/failures, please let me know!  Thank you so much! <br>
 
-<br>  
-<br>
-0. <b>Tasks:</b>
+<b>Tasks:</b><br>
 1. connecting social accounts in 1 main row/group<br>
 2. find/organize best wordpress-esque animations (paralax, fades, slides, glowpulses, more unique etc.)<br>
 3. organize code & **feng** **shui** of donations page<br>
