@@ -1,4 +1,4 @@
-<small style="font-size:6px; line-height:8px; font-family:Arial;">Hi! 👋 ✨
+<small style="font-size:6px; line-height:8px; font-family:sans-serif;">Hi! 👋 ✨
 My name is ✨ _Nicky Dubs_ , welcome to my space on GitHub?  ✨ ✨<br>
 I am experimenting with html/css/js code to create a musicians website from "scratch".<br> 
 (using & frankensteining whatever open-source code/templates i find to be most useful) <br>
