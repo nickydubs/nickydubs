@@ -1,5 +1,5 @@
-<span style="font-size:10px; font-family:arial;">Hi! 👋 ✨
-My name is ✨ _Nicky Dubs_ ✨, welcome to my space on GitHub?  ✨ ✨
+<span style="font-size:9px; font-family:arial;">Hi! 👋 ✨
+My name is ✨ _Nicky Dubs_ , welcome to my space on GitHub?  ✨ ✨
   <br>
 I am experimenting with html/css/js code to create a musicians website from "scratch"
   <br> 
