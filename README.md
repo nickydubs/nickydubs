@@ -7,7 +7,7 @@ I am experimenting with html/css/js code to create a musicians website from "scr
   
 As the experiment continues of building a site for my exact purposes, <br>
   it should be quite easily forkable for other independent artists/performers/retailers.<br> 
-If you have ever done this before and had any successes/failures, please let me know!  <br>
+If you have ever done this before and had any successes/failures, I'm open to feedback.  <br>
   Thank you so much! ✨<br>✨✨<br>
 
 <b>Tasks:</b>⚡⚡⚡⚡⚡ ✨✨<br>
