@@ -14,11 +14,11 @@ If you have ever done this before and had any successes/failures, I'm open to fe
 1. connecting social accounts in 1 main row/group<br>
 2. find/organize best wordpress-esque animations (paralax, fades, slides, glowpulses, more unique etc.)<br>
 3. organize code & **feng** **shui** of donations page<br>
-4. + online epk, updated bio + vids (one-click promo)<br>
-5. + merch store (taking donations/payments & distributing art/music/NFTs w/shipping etc.)<br>
-6. + 3rd-party app connectivity (songkick, soundcloud, youtube, insta etc.)<br>
-7. + trippy easter eggs?<br>
-8. + web3 smartcontract marketplace from scratch + algorithmic tools for marketing & daytrading strategy discovery.<br>
+4. online epk, updated bio + vids (one-click promo)<br>
+5. merch store (taking donations/payments & distributing art/music/NFTs w/shipping etc.)<br>
+6. 3rd-party app connectivity (songkick, soundcloud, youtube, insta etc.)<br>
+7. trippy easter eggs?<br>
+8. web3 smartcontract marketplace from scratch + algorithmic tools for marketing & daytrading strategy discovery.<br>
 9. any other ideas?  leave me a message!  whatever else I can think of. ✨<br>✨<br>
   
  Seeking help with marketing + any ideas, free code or algorithms/tools that would help me pay my rent + eat food! <br><br>
